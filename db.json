@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "title": "Samsung",
+      "price": "1300",
+      "descr": "test descr",
+      "image": "/img/Iphone 13 Pro.jpg",
+      "id": 1
+    },
+    {
+      "title": "Samsung S10",
+      "price": "900",
+      "descr": "Modern phone",
+      "image": "/img/Samsung S10.jpg",
+      "id": 2
+    }
+  ]
+}
